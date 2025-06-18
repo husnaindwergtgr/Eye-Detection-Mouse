@@ -10,5 +10,5 @@
 2. MediaPIPE
 3. Pyautogui
 
-#### Run the Main.py file
+#### Run the main.py file
 

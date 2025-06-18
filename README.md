@@ -12,3 +12,7 @@
 
 #### Run the main.py file
 
+
+##### Blink your eyes for LEFT CLICK
+
+
